@@ -1,24 +1,24 @@
-# Washing Machine Simulator - PIC16F877A
+# 📁 Washing Machine Simulator - PIC16F877A
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project simulates a basic washing machine operation using the PIC16F877A microcontroller. The embedded C code is written and compiled using MPLAB X IDE with the XC8 compiler. The logic is tested and simulated using PICSimLab on the PICGenios board.
 
-## Features
+## 📋 Features
 
 - Simulates washing machine stages: Washing, Rinsing, and Spinning
 - Implements time-based transitions using delay logic
 - Visual feedback via LEDs
 - Demonstrates embedded systems design and microcontroller programming
 
-## Prerequisites
+## 🛠️ Prerequisites
 
 - MPLAB X IDE
 - XC8 Compiler
 - PICSimLab
 - PICGenios board
 
-## Tools & Technologies Used
+## 🔧 Tools & Technologies Used
 
 - Microcontroller: PIC16F877A
 - Board: PICGenios
@@ -26,7 +26,7 @@ This project simulates a basic washing machine operation using the PIC16F877A mi
 - Compiler: MPLAB XC8 Compiler
 - Simulator: PICSimLab
 
-## Folder Structure
+## 📂 Folder Structure
 
 ```
 washing-machine-simulator/
@@ -35,7 +35,7 @@ washing-machine-simulator/
 └── README.md           # Project overview and instructions
 ```
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Step 1: Open and Build in MPLAB X IDE
 
@@ -52,18 +52,18 @@ washing-machine-simulator/
 4. Load the generated .hex file (from the dist directory of your MPLAB project)
 5. Start the simulation and observe washing machine behavior through simulated LEDs or components
 
-## Demo
+## 🎥 Demo
 
 A Demonstration Video showing Real-Time working of the Washing Machine Simulator.
 
-## License
+## 📄 License
 
 This project is open-source and available under the MIT License. You may use or modify it for educational or non-commercial use.
 
-## Authors
+## 👤 Authors
 
 - ** Vaishno Prakash Tiwari** - Final Year B.Tech Student, Electronics and Communication Engineering
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 - Rajkiya Engineering College Sonbhadra, Uttar Pradesh
