@@ -54,7 +54,9 @@ washing-machine-simulator/
 
 ## 🎥 Demo
 
-A Demonstration Video showing Real-Time working of the Washing Machine Simulator.
+Watch the real-time working demonstration of the Washing Machine Simulator:
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/44HOB5FE8Xw?si=aCdghg7VxxCqMQm8)
 
 ## 📄 License
 
